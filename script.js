@@ -1,4 +1,4 @@
-console.log("Hi there!");
+console.log("Hi there!2");
 
 const botName = "teacherBot";
 
